@@ -1,5 +1,5 @@
 ## Desafio
-Precisamos que você crie um aplicativo que irá consumir um endpoint específico contendo 25 usuários, porém essa lista deve exibir apenas de 5 em 5 elementos. Para isso, você deve criar um botão para carregar mais itens.
+Precisamos que você crie um aplicativo que irá consumir um [endpoint específico](https://uinames.com/api/?amount=25&ext) contendo 25 usuários, porém essa lista deve exibir apenas de 5 em 5 elementos. Para isso, você deve criar um botão para carregar mais itens.
 
 A lista deve conter nome e foto. Ao clicar no card do usuário, o fluxo seguirá para uma nova screen com todas as informações desse usuário, conforme os screenshots abaixo.
 
