@@ -3,7 +3,7 @@ Precisamos que você crie um aplicativo que irá consumir um [endpoint especific
 
 A lista deve conter nome e foto. Ao clicar no no card do usuário irá para uma nova screen com todas informações desse usuário, conforme os screenshots abaixo.
 
-![teste](https://preview.ibb.co/mJC4ey/demo_teste_front_ukor.gif)
+![teste](https://media.giphy.com/media/4Hmk2hxRsTTbxr7RNi/giphy.gif)
 
 ## Como deve ser feito
 Utilize React Native para o aplicativo, Redux para o estado e Axios para consumir endpoints, lembre-se de utilizar expo para publicar o App.
